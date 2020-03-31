@@ -38,9 +38,9 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'EXCEPTION_OUT_OF_BOUNDS'		=> 'The field `%s` received a value out of its range.',
-	'EXCEPTION_INVALID_COLOR'		=> 'The field `%s` received an invalid color value. A valid color is a 6 character hexadecimal string (0-9, A-F).',
-	'EXCEPTION_TOO_LONG'			=> 'The field `%s` received a value longer than the maximum length.',
+	'EXCEPTION_OUT_OF_BOUNDS'		=> 'Pole `%s` received a value out of its range.',
+	'EXCEPTION_INVALID_COLOR'		=> 'Podano nieobsługiwany format w polu `%s`. Przyjmowane są tylko kolory w zapisie szesnastkowym (sześć znaków 0-9, A-F) .',
+	'EXCEPTION_TOO_LONG'			=> 'Wartość z pola`%s` jest za długa.',
 	'EXCEPTION_NAME_REQUIRED'		=> 'Musisz podać nazwę odznaki.',
 	'EXCEPTION_CAT_NAME_REQUIRED'	=> 'Musisz podać nazwę kategorii.',
 	'EXCEPTION_IMG_CONFLICT'		=> 'Grafika o takiej nazwie już istnieje.',
