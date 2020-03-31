@@ -2,8 +2,9 @@
 /**
  *
  * Profile Flair. An extension for the phpBB Forum Software package.
- *
- * @copyright (c) 2017, Steve Guidetti, https://github.com/stevotvr
+ * Polish translation by MakaryGo (https://github.com/MakaryGo)	
+ * 
+ * @copyright (c) 2017 - 2020, Steve Guidetti, https://github.com/stevotvr
  * @license GNU General Public License, version 2 (GPL-2.0)
  *
  */
@@ -38,6 +39,6 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'ACL_M_MANAGE_FLAIR'	=> 'Can manage profile flair<br /><em>This setting is only assigned globally. It is not forum based.</em>',
-	'ACL_U_FLAIR'			=> 'Can self-assign and set favorite profile flair',
+	'ACL_M_MANAGE_FLAIR'	=> 'Może zarządzać odznakami.<br /><em>To uprawnienie przyznaje się dla całej witryny; jest niezależne od forów i kategorii.</em>',
+	'ACL_U_FLAIR'			=> 'Może zarządzać swoimi odznakami i dodawać do ulubionych.',
 ));

@@ -4,7 +4,7 @@
  * Profile Flair. An extension for the phpBB Forum Software package.
  * Polish translation by MakaryGo (https://github.com/MakaryGo)
  * 
- * @copyright (c) 2020, Steve Guidetti, https://github.com/stevotvr
+ * @copyright (c) 2017 - 2020, Steve Guidetti, https://github.com/stevotvr
  * @license GNU General Public License, version 2 (GPL-2.0)
  *
  */
