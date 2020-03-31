@@ -1,0 +1,13 @@
+Temat: Masz nową odznakę!
+
+Witaj {USERNAME},
+
+Właśnie przyznano Ci nową odznakę "{FLAIR_NAME}" na "{SITENAME}".
+
+Aby dowiedzieć się o niej więcej, kliknij poniższy odnośnik:
+{U_FLAIR}
+
+Aby zobaczyć swoje odznaki, odwiedź swój profil przez ten link:
+{U_PROFILE}
+
+{EMAIL_SIG}
