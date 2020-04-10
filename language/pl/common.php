@@ -40,7 +40,7 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'FLAIR_PROFILE_TITLE'	=> 'Odznaki %s',
-	'FLAIR_LEGEND_TITLE'	=> 'Profile Flair Legend',
+	'FLAIR_LEGEND_TITLE'	=> 'Wszystkie odznaki',
 
 	'FLAIR_NO_FLAIR'	=> 'Nie utworzono jeszcze żadnych odznak',
 

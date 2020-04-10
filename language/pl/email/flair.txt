@@ -1,4 +1,4 @@
-Temat: Masz nową odznakę!
+Subject: Masz nową odznakę!
 
 Witaj {USERNAME},
 
