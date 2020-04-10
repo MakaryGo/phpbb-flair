@@ -43,14 +43,14 @@ $lang = array_merge($lang, array(
 	'UCP_FLAIR_EXPLAIN'	=> 'Here you can manage your profile flair.<ul><li>Click the <i class="fa fa-star"></i>/<i class="fa fa-star-o"></i> button to favorite/unfavorite an item. Favorites are shown first on your profile.</li><li>Click the <b>&times;</b> button to remove an item. This option may not be available for all items.</li><li>The <b>Available Flair</b> panel lists items that you can add to your own profile.</li></ul>',
 
 	'UCP_USER_FLAIR'			=> 'Twoja odznaka',
-	'UCP_FLAIR_AVAILABLE'		=> 'Available flair',
-	'UCP_FLAIR_NO_FLAIR'		=> 'You have no flair',
-	'UCP_FLAIR_NO_AVAILABLE'	=> 'No flair is available',
-	'UCP_FLAIR_ADD'				=> 'Add “%s”',
-	'UCP_FLAIR_REMOVE'			=> 'Remove “%s”',
-	'UCP_FLAIR_FAV'				=> 'Add “%s” to favorites',
-	'UCP_FLAIR_UNFAV'			=> 'Remove “%s” from favorites',
-	'UCP_FLAIR_REMOVE_CONFIRM'	=> 'Are you sure you wish to remove this item?',
+	'UCP_FLAIR_AVAILABLE'		=> 'Dostępne odznaki',
+	'UCP_FLAIR_NO_FLAIR'		=> 'Nie masz żadnych odznak',
+	'UCP_FLAIR_NO_AVAILABLE'	=> 'Żadna odznaka nie jest dostępna',
+	'UCP_FLAIR_ADD'				=> 'Dodaj “%s”',
+	'UCP_FLAIR_REMOVE'			=> 'Odbierz “%s”',
+	'UCP_FLAIR_FAV'				=> 'Dodaj “%s” do ulubionych',
+	'UCP_FLAIR_UNFAV'			=> 'Usuń “%s” z ulubionych',
+	'UCP_FLAIR_REMOVE_CONFIRM'	=> 'Czy na pewno usunąć?',
 
-	'UCP_FLAIR_ADD_BUTTON'	=> 'Add to profile',
+	'UCP_FLAIR_ADD_BUTTON'	=> 'Dodaj do profilu',
 ));
